@@ -1,24 +1,24 @@
-# README
+# ネット裏から速報しよう！「attaboy」
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## URL
+- 未定
 
-Things you may want to cover:
+## リリース日
+- 未定
 
-* Ruby version
+## 使用技術
+- Ruby 2.6.5
+- Rails 6.0.0
+- MySQL 8.0.12
 
-* System dependencies
+## 本番環境構成(予定)
+- ConoHa VPS
+- CentOS
+- Nginx
+- Unicorn
 
-* Configuration
+## デプロイ(予定)
+- Capistrano
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 主な機能
+- 未定
