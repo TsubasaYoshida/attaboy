@@ -1,4 +1,4 @@
-# attaboy! 〜ネット裏から速報しよう！〜
+# attaboy! <small>〜ネット裏から速報しよう！〜</small>
 
 ## URL
 - 未定
