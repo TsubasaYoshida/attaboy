@@ -17,7 +17,9 @@ module Attaboy
     # the framework and any gems in your application.
 
     config.generators do |g|
-      g.test_framework false
+      g.assets false
+      g.helper false
+      g.jbuilder false
       g.test_framework :rspec,
                        # テストデータベースにレコードを作成するファイルの作成をスキップ
                        fixtures: false,
